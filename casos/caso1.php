@@ -8,11 +8,16 @@
 </head>
 <body>
     <header>
-        <h3>CASA DE CAMBIOS</h3>
+    <h3>CASA DE CAMBIOS</h3>
+        <style>*{
+            vertical-align: auto;
+        }</style>
+        
     </header>
     <section>
+        
         <form action="caso1.php" method="get">
-            <table border="0" cellspacing ="0" cellpading = "0" >
+            <table border="0" cellspacing ="0" cellpading = "0" align="center">
                 <tr>
                     <td>Monto en soles:</td>
                     <td>

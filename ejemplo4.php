@@ -42,7 +42,7 @@
             <?php
             $b = 20;
             $cadena2 = $b ;
-            printf("<br>la nota final del curso es %.3f",$b)
+            printf("<>la nota final del curso es %.3f",$b)
         ?>
         
     </section>
